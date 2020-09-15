@@ -1,0 +1,7 @@
+{
+  "name": "todoi",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
